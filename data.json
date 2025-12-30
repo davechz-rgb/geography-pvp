@@ -1,0 +1,1100 @@
+[
+  {
+    "code": "US",
+    "name": "United States",
+    "capital": "Washington, D.C.",
+    "language": "English",
+    "demonym": "American",
+    "government": "Federal presidential republic",
+    "economy": "Technology, services, finance"
+  },
+  {
+    "code": "CA",
+    "name": "Canada",
+    "capital": "Ottawa",
+    "language": "English and French",
+    "demonym": "Canadian",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Services, energy, manufacturing"
+  },
+  {
+    "code": "MX",
+    "name": "Mexico",
+    "capital": "Mexico City",
+    "language": "Spanish",
+    "demonym": "Mexican",
+    "government": "Federal presidential republic",
+    "economy": "Manufacturing, oil, services"
+  },
+  {
+    "code": "GT",
+    "name": "Guatemala",
+    "capital": "Guatemala City",
+    "language": "Spanish",
+    "demonym": "Guatemalan",
+    "government": "Presidential republic",
+    "economy": "Agriculture, textiles, services"
+  },
+  {
+    "code": "CR",
+    "name": "Costa Rica",
+    "capital": "San José",
+    "language": "Spanish",
+    "demonym": "Costa Rican",
+    "government": "Presidential republic",
+    "economy": "Eco-tourism, services, agriculture"
+  },
+  {
+    "code": "PA",
+    "name": "Panama",
+    "capital": "Panama City",
+    "language": "Spanish",
+    "demonym": "Panamanian",
+    "government": "Presidential republic",
+    "economy": "Canal logistics, banking, services"
+  },
+  {
+    "code": "CU",
+    "name": "Cuba",
+    "capital": "Havana",
+    "language": "Spanish",
+    "demonym": "Cuban",
+    "government": "One-party socialist republic",
+    "economy": "Services, tourism, biotechnology"
+  },
+  {
+    "code": "DO",
+    "name": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "language": "Spanish",
+    "demonym": "Dominican",
+    "government": "Presidential republic",
+    "economy": "Tourism, services, manufacturing"
+  },
+  {
+    "code": "JM",
+    "name": "Jamaica",
+    "capital": "Kingston",
+    "language": "English",
+    "demonym": "Jamaican",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Tourism, bauxite, services"
+  },
+  {
+    "code": "HT",
+    "name": "Haiti",
+    "capital": "Port-au-Prince",
+    "language": "Haitian Creole and French",
+    "demonym": "Haitian",
+    "government": "Semi-presidential republic",
+    "economy": "Agriculture, textiles"
+  },
+  {
+    "code": "BS",
+    "name": "Bahamas",
+    "capital": "Nassau",
+    "language": "English",
+    "demonym": "Bahamian",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Tourism, services"
+  },
+  {
+    "code": "BB",
+    "name": "Barbados",
+    "capital": "Bridgetown",
+    "language": "English",
+    "demonym": "Barbadian",
+    "government": "Parliamentary republic",
+    "economy": "Tourism, services"
+  },
+  {
+    "code": "CO",
+    "name": "Colombia",
+    "capital": "Bogotá",
+    "language": "Spanish",
+    "demonym": "Colombian",
+    "government": "Presidential republic",
+    "economy": "Oil, coffee, services"
+  },
+  {
+    "code": "VE",
+    "name": "Venezuela",
+    "capital": "Caracas",
+    "language": "Spanish",
+    "demonym": "Venezuelan",
+    "government": "Federal republic",
+    "economy": "Oil, minerals"
+  },
+  {
+    "code": "EC",
+    "name": "Ecuador",
+    "capital": "Quito",
+    "language": "Spanish",
+    "demonym": "Ecuadorian",
+    "government": "Presidential republic",
+    "economy": "Oil, bananas, agriculture"
+  },
+  {
+    "code": "PE",
+    "name": "Peru",
+    "capital": "Lima",
+    "language": "Spanish",
+    "demonym": "Peruvian",
+    "government": "Presidential republic",
+    "economy": "Mining, agriculture, services"
+  },
+  {
+    "code": "BO",
+    "name": "Bolivia",
+    "capital": "Sucre (constitutional), La Paz (administrative)",
+    "language": "Spanish and Indigenous languages",
+    "demonym": "Bolivian",
+    "government": "Unitary presidential republic",
+    "economy": "Natural gas, mining, agriculture"
+  },
+  {
+    "code": "CL",
+    "name": "Chile",
+    "capital": "Santiago",
+    "language": "Spanish",
+    "demonym": "Chilean",
+    "government": "Presidential republic",
+    "economy": "Mining (copper), services"
+  },
+  {
+    "code": "AR",
+    "name": "Argentina",
+    "capital": "Buenos Aires",
+    "language": "Spanish",
+    "demonym": "Argentine",
+    "government": "Federal presidential republic",
+    "economy": "Agriculture, services, manufacturing"
+  },
+  {
+    "code": "UY",
+    "name": "Uruguay",
+    "capital": "Montevideo",
+    "language": "Spanish",
+    "demonym": "Uruguayan",
+    "government": "Presidential republic",
+    "economy": "Services, agriculture"
+  },
+  {
+    "code": "PY",
+    "name": "Paraguay",
+    "capital": "Asunción",
+    "language": "Spanish and Guaraní",
+    "demonym": "Paraguayan",
+    "government": "Presidential republic",
+    "economy": "Agriculture, hydroelectric power"
+  },
+  {
+    "code": "BR",
+    "name": "Brazil",
+    "capital": "Brasília",
+    "language": "Portuguese",
+    "demonym": "Brazilian",
+    "government": "Federal presidential republic",
+    "economy": "Agriculture, mining, manufacturing"
+  },
+  {
+    "code": "SR",
+    "name": "Suriname",
+    "capital": "Paramaribo",
+    "language": "Dutch",
+    "demonym": "Surinamese",
+    "government": "Presidential republic",
+    "economy": "Mining, oil, agriculture"
+  },
+  {
+    "code": "GY",
+    "name": "Guyana",
+    "capital": "Georgetown",
+    "language": "English",
+    "demonym": "Guyanese",
+    "government": "Presidential republic",
+    "economy": "Oil, mining, agriculture"
+  },
+  {
+    "code": "TT",
+    "name": "Trinidad and Tobago",
+    "capital": "Port of Spain",
+    "language": "English",
+    "demonym": "Trinidadian and Tobagonian",
+    "government": "Parliamentary republic",
+    "economy": "Oil and gas, petrochemicals"
+  },
+  {
+    "code": "GB",
+    "name": "United Kingdom",
+    "capital": "London",
+    "language": "English",
+    "demonym": "British",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Services, finance"
+  },
+  {
+    "code": "IE",
+    "name": "Ireland",
+    "capital": "Dublin",
+    "language": "Irish and English",
+    "demonym": "Irish",
+    "government": "Parliamentary republic",
+    "economy": "Technology, services"
+  },
+  {
+    "code": "FR",
+    "name": "France",
+    "capital": "Paris",
+    "language": "French",
+    "demonym": "French",
+    "government": "Semi-presidential republic",
+    "economy": "Services, manufacturing"
+  },
+  {
+    "code": "ES",
+    "name": "Spain",
+    "capital": "Madrid",
+    "language": "Spanish",
+    "demonym": "Spanish",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Services, tourism"
+  },
+  {
+    "code": "PT",
+    "name": "Portugal",
+    "capital": "Lisbon",
+    "language": "Portuguese",
+    "demonym": "Portuguese",
+    "government": "Semi-presidential republic",
+    "economy": "Services, tourism"
+  },
+  {
+    "code": "IT",
+    "name": "Italy",
+    "capital": "Rome",
+    "language": "Italian",
+    "demonym": "Italian",
+    "government": "Parliamentary republic",
+    "economy": "Manufacturing, services"
+  },
+  {
+    "code": "DE",
+    "name": "Germany",
+    "capital": "Berlin",
+    "language": "German",
+    "demonym": "German",
+    "government": "Federal parliamentary republic",
+    "economy": "Manufacturing, exports"
+  },
+  {
+    "code": "NL",
+    "name": "Netherlands",
+    "capital": "Amsterdam",
+    "language": "Dutch",
+    "demonym": "Dutch",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Trade, services"
+  },
+  {
+    "code": "BE",
+    "name": "Belgium",
+    "capital": "Brussels",
+    "language": "Dutch, French, German",
+    "demonym": "Belgian",
+    "government": "Federal constitutional monarchy",
+    "economy": "Services, manufacturing"
+  },
+  {
+    "code": "LU",
+    "name": "Luxembourg",
+    "capital": "Luxembourg",
+    "language": "Luxembourgish, French, German",
+    "demonym": "Luxembourger",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Finance, services"
+  },
+  {
+    "code": "CH",
+    "name": "Switzerland",
+    "capital": "Bern",
+    "language": "German, French, Italian, Romansh",
+    "demonym": "Swiss",
+    "government": "Federal directorial republic",
+    "economy": "Banking, pharmaceuticals"
+  },
+  {
+    "code": "AT",
+    "name": "Austria",
+    "capital": "Vienna",
+    "language": "German",
+    "demonym": "Austrian",
+    "government": "Federal parliamentary republic",
+    "economy": "Services, industry"
+  },
+  {
+    "code": "PL",
+    "name": "Poland",
+    "capital": "Warsaw",
+    "language": "Polish",
+    "demonym": "Polish",
+    "government": "Parliamentary republic",
+    "economy": "Manufacturing, services"
+  },
+  {
+    "code": "CZ",
+    "name": "Czechia",
+    "capital": "Prague",
+    "language": "Czech",
+    "demonym": "Czech",
+    "government": "Parliamentary republic",
+    "economy": "Industry, services"
+  },
+  {
+    "code": "SK",
+    "name": "Slovakia",
+    "capital": "Bratislava",
+    "language": "Slovak",
+    "demonym": "Slovak",
+    "government": "Parliamentary republic",
+    "economy": "Industry, services"
+  },
+  {
+    "code": "HU",
+    "name": "Hungary",
+    "capital": "Budapest",
+    "language": "Hungarian",
+    "demonym": "Hungarian",
+    "government": "Parliamentary republic",
+    "economy": "Manufacturing, services"
+  },
+  {
+    "code": "RO",
+    "name": "Romania",
+    "capital": "Bucharest",
+    "language": "Romanian",
+    "demonym": "Romanian",
+    "government": "Semi-presidential republic",
+    "economy": "Industry, services"
+  },
+  {
+    "code": "BG",
+    "name": "Bulgaria",
+    "capital": "Sofia",
+    "language": "Bulgarian",
+    "demonym": "Bulgarian",
+    "government": "Parliamentary republic",
+    "economy": "Industry, services"
+  },
+  {
+    "code": "GR",
+    "name": "Greece",
+    "capital": "Athens",
+    "language": "Greek",
+    "demonym": "Greek",
+    "government": "Parliamentary republic",
+    "economy": "Tourism, shipping"
+  },
+  {
+    "code": "SE",
+    "name": "Sweden",
+    "capital": "Stockholm",
+    "language": "Swedish",
+    "demonym": "Swedish",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Services, manufacturing"
+  },
+  {
+    "code": "NO",
+    "name": "Norway",
+    "capital": "Oslo",
+    "language": "Norwegian",
+    "demonym": "Norwegian",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Oil and gas, services"
+  },
+  {
+    "code": "DK",
+    "name": "Denmark",
+    "capital": "Copenhagen",
+    "language": "Danish",
+    "demonym": "Danish",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Services, shipping"
+  },
+  {
+    "code": "FI",
+    "name": "Finland",
+    "capital": "Helsinki",
+    "language": "Finnish and Swedish",
+    "demonym": "Finnish",
+    "government": "Parliamentary republic",
+    "economy": "Technology, services"
+  },
+  {
+    "code": "IS",
+    "name": "Iceland",
+    "capital": "Reykjavík",
+    "language": "Icelandic",
+    "demonym": "Icelandic",
+    "government": "Parliamentary republic",
+    "economy": "Fishing, tourism"
+  },
+  {
+    "code": "EE",
+    "name": "Estonia",
+    "capital": "Tallinn",
+    "language": "Estonian",
+    "demonym": "Estonian",
+    "government": "Parliamentary republic",
+    "economy": "Technology, services"
+  },
+  {
+    "code": "LV",
+    "name": "Latvia",
+    "capital": "Riga",
+    "language": "Latvian",
+    "demonym": "Latvian",
+    "government": "Parliamentary republic",
+    "economy": "Services, industry"
+  },
+  {
+    "code": "LT",
+    "name": "Lithuania",
+    "capital": "Vilnius",
+    "language": "Lithuanian",
+    "demonym": "Lithuanian",
+    "government": "Semi-presidential republic",
+    "economy": "Services, industry"
+  },
+  {
+    "code": "UA",
+    "name": "Ukraine",
+    "capital": "Kyiv",
+    "language": "Ukrainian",
+    "demonym": "Ukrainian",
+    "government": "Unitary semi-presidential republic",
+    "economy": "Agriculture, industry"
+  },
+  {
+    "code": "RU",
+    "name": "Russia",
+    "capital": "Moscow",
+    "language": "Russian",
+    "demonym": "Russian",
+    "government": "Federal semi-presidential republic",
+    "economy": "Oil and gas, mining"
+  },
+  {
+    "code": "HR",
+    "name": "Croatia",
+    "capital": "Zagreb",
+    "language": "Croatian",
+    "demonym": "Croatian",
+    "government": "Parliamentary republic",
+    "economy": "Tourism, services"
+  },
+  {
+    "code": "RS",
+    "name": "Serbia",
+    "capital": "Belgrade",
+    "language": "Serbian",
+    "demonym": "Serbian",
+    "government": "Parliamentary republic",
+    "economy": "Services, industry"
+  },
+  {
+    "code": "SI",
+    "name": "Slovenia",
+    "capital": "Ljubljana",
+    "language": "Slovene",
+    "demonym": "Slovene",
+    "government": "Parliamentary republic",
+    "economy": "Services, industry"
+  },
+  {
+    "code": "BA",
+    "name": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "language": "Bosnian/Croatian/Serbian",
+    "demonym": "Bosnian",
+    "government": "Federal parliamentary republic",
+    "economy": "Industry, services"
+  },
+  {
+    "code": "ME",
+    "name": "Montenegro",
+    "capital": "Podgorica",
+    "language": "Montenegrin",
+    "demonym": "Montenegrin",
+    "government": "Parliamentary republic",
+    "economy": "Tourism, services"
+  },
+  {
+    "code": "AL",
+    "name": "Albania",
+    "capital": "Tirana",
+    "language": "Albanian",
+    "demonym": "Albanian",
+    "government": "Parliamentary republic",
+    "economy": "Services, agriculture"
+  },
+  {
+    "code": "MK",
+    "name": "North Macedonia",
+    "capital": "Skopje",
+    "language": "Macedonian",
+    "demonym": "Macedonian",
+    "government": "Parliamentary republic",
+    "economy": "Services, industry"
+  },
+  {
+    "code": "AD",
+    "name": "Andorra",
+    "capital": "Andorra la Vella",
+    "language": "Catalan",
+    "demonym": "Andorran",
+    "government": "Parliamentary co-principality",
+    "economy": "Tourism, banking"
+  },
+  {
+    "code": "MC",
+    "name": "Monaco",
+    "capital": "Monaco",
+    "language": "French",
+    "demonym": "Monegasque",
+    "government": "Constitutional monarchy",
+    "economy": "Finance, tourism"
+  },
+  {
+    "code": "SM",
+    "name": "San Marino",
+    "capital": "San Marino",
+    "language": "Italian",
+    "demonym": "Sammarinese",
+    "government": "Parliamentary republic",
+    "economy": "Tourism, services"
+  },
+  {
+    "code": "VA",
+    "name": "Vatican City",
+    "capital": "Vatican City",
+    "language": "Italian and Latin",
+    "demonym": "Vatican",
+    "government": "Elective theocracy",
+    "economy": "Tourism, services"
+  },
+  {
+    "code": "ZA",
+    "name": "South Africa",
+    "capital": "Pretoria (executive), Cape Town (legislative), Bloemfontein (judicial)",
+    "language": "11 official languages (incl. Zulu, Xhosa, Afrikaans, English)",
+    "demonym": "South African",
+    "government": "Parliamentary republic",
+    "economy": "Mining, services, manufacturing"
+  },
+  {
+    "code": "EG",
+    "name": "Egypt",
+    "capital": "Cairo",
+    "language": "Arabic",
+    "demonym": "Egyptian",
+    "government": "Semi-presidential republic",
+    "economy": "Services, tourism, Suez Canal"
+  },
+  {
+    "code": "NG",
+    "name": "Nigeria",
+    "capital": "Abuja",
+    "language": "English",
+    "demonym": "Nigerian",
+    "government": "Federal presidential republic",
+    "economy": "Oil, agriculture, services"
+  },
+  {
+    "code": "ET",
+    "name": "Ethiopia",
+    "capital": "Addis Ababa",
+    "language": "Amharic",
+    "demonym": "Ethiopian",
+    "government": "Federal parliamentary republic",
+    "economy": "Agriculture, services"
+  },
+  {
+    "code": "KE",
+    "name": "Kenya",
+    "capital": "Nairobi",
+    "language": "Swahili and English",
+    "demonym": "Kenyan",
+    "government": "Presidential republic",
+    "economy": "Agriculture, services, tourism"
+  },
+  {
+    "code": "TZ",
+    "name": "Tanzania",
+    "capital": "Dodoma",
+    "language": "Swahili and English",
+    "demonym": "Tanzanian",
+    "government": "Presidential republic",
+    "economy": "Agriculture, mining, tourism"
+  },
+  {
+    "code": "UG",
+    "name": "Uganda",
+    "capital": "Kampala",
+    "language": "English and Swahili",
+    "demonym": "Ugandan",
+    "government": "Presidential republic",
+    "economy": "Agriculture, services"
+  },
+  {
+    "code": "GH",
+    "name": "Ghana",
+    "capital": "Accra",
+    "language": "English",
+    "demonym": "Ghanaian",
+    "government": "Presidential republic",
+    "economy": "Cocoa, gold, oil"
+  },
+  {
+    "code": "CI",
+    "name": "Côte d’Ivoire",
+    "capital": "Yamoussoukro",
+    "language": "French",
+    "demonym": "Ivorian",
+    "government": "Presidential republic",
+    "economy": "Cocoa, agriculture"
+  },
+  {
+    "code": "SN",
+    "name": "Senegal",
+    "capital": "Dakar",
+    "language": "French",
+    "demonym": "Senegalese",
+    "government": "Presidential republic",
+    "economy": "Services, agriculture"
+  },
+  {
+    "code": "MA",
+    "name": "Morocco",
+    "capital": "Rabat",
+    "language": "Arabic and Amazigh",
+    "demonym": "Moroccan",
+    "government": "Constitutional monarchy",
+    "economy": "Tourism, agriculture, phosphates"
+  },
+  {
+    "code": "DZ",
+    "name": "Algeria",
+    "capital": "Algiers",
+    "language": "Arabic and Amazigh",
+    "demonym": "Algerian",
+    "government": "Semi-presidential republic",
+    "economy": "Oil and gas"
+  },
+  {
+    "code": "TN",
+    "name": "Tunisia",
+    "capital": "Tunis",
+    "language": "Arabic",
+    "demonym": "Tunisian",
+    "government": "Republic",
+    "economy": "Services, manufacturing"
+  },
+  {
+    "code": "SD",
+    "name": "Sudan",
+    "capital": "Khartoum",
+    "language": "Arabic and English",
+    "demonym": "Sudanese",
+    "government": "Republic",
+    "economy": "Agriculture, oil"
+  },
+  {
+    "code": "AO",
+    "name": "Angola",
+    "capital": "Luanda",
+    "language": "Portuguese",
+    "demonym": "Angolan",
+    "government": "Presidential republic",
+    "economy": "Oil, diamonds"
+  },
+  {
+    "code": "MZ",
+    "name": "Mozambique",
+    "capital": "Maputo",
+    "language": "Portuguese",
+    "demonym": "Mozambican",
+    "government": "Presidential republic",
+    "economy": "Agriculture, natural gas"
+  },
+  {
+    "code": "ZW",
+    "name": "Zimbabwe",
+    "capital": "Harare",
+    "language": "English, Shona, Ndebele (and others)",
+    "demonym": "Zimbabwean",
+    "government": "Presidential republic",
+    "economy": "Mining, agriculture"
+  },
+  {
+    "code": "CM",
+    "name": "Cameroon",
+    "capital": "Yaoundé",
+    "language": "French and English",
+    "demonym": "Cameroonian",
+    "government": "Presidential republic",
+    "economy": "Oil, agriculture"
+  },
+  {
+    "code": "CD",
+    "name": "DR Congo",
+    "capital": "Kinshasa",
+    "language": "French",
+    "demonym": "Congolese",
+    "government": "Semi-presidential republic",
+    "economy": "Mining, agriculture"
+  },
+  {
+    "code": "MG",
+    "name": "Madagascar",
+    "capital": "Antananarivo",
+    "language": "Malagasy and French",
+    "demonym": "Malagasy",
+    "government": "Semi-presidential republic",
+    "economy": "Agriculture, mining"
+  },
+  {
+    "code": "BW",
+    "name": "Botswana",
+    "capital": "Gaborone",
+    "language": "English and Tswana",
+    "demonym": "Botswanan",
+    "government": "Parliamentary republic",
+    "economy": "Diamonds, tourism"
+  },
+  {
+    "code": "NA",
+    "name": "Namibia",
+    "capital": "Windhoek",
+    "language": "English",
+    "demonym": "Namibian",
+    "government": "Presidential republic",
+    "economy": "Mining, tourism"
+  },
+  {
+    "code": "ZM",
+    "name": "Zambia",
+    "capital": "Lusaka",
+    "language": "English",
+    "demonym": "Zambian",
+    "government": "Presidential republic",
+    "economy": "Mining (copper), agriculture"
+  },
+  {
+    "code": "RW",
+    "name": "Rwanda",
+    "capital": "Kigali",
+    "language": "Kinyarwanda, French, English, Swahili",
+    "demonym": "Rwandan",
+    "government": "Presidential republic",
+    "economy": "Services, agriculture"
+  },
+  {
+    "code": "TR",
+    "name": "Turkey",
+    "capital": "Ankara",
+    "language": "Turkish",
+    "demonym": "Turkish",
+    "government": "Presidential republic",
+    "economy": "Manufacturing, services"
+  },
+  {
+    "code": "IL",
+    "name": "Israel",
+    "capital": "Jerusalem",
+    "language": "Hebrew (Arabic widely used)",
+    "demonym": "Israeli",
+    "government": "Parliamentary republic",
+    "economy": "Technology, services"
+  },
+  {
+    "code": "SA",
+    "name": "Saudi Arabia",
+    "capital": "Riyadh",
+    "language": "Arabic",
+    "demonym": "Saudi",
+    "government": "Absolute monarchy",
+    "economy": "Oil and gas"
+  },
+  {
+    "code": "AE",
+    "name": "United Arab Emirates",
+    "capital": "Abu Dhabi",
+    "language": "Arabic",
+    "demonym": "Emirati",
+    "government": "Federation of monarchies",
+    "economy": "Oil, trade, services"
+  },
+  {
+    "code": "QA",
+    "name": "Qatar",
+    "capital": "Doha",
+    "language": "Arabic",
+    "demonym": "Qatari",
+    "government": "Absolute monarchy",
+    "economy": "Natural gas, oil"
+  },
+  {
+    "code": "KW",
+    "name": "Kuwait",
+    "capital": "Kuwait City",
+    "language": "Arabic",
+    "demonym": "Kuwaiti",
+    "government": "Constitutional monarchy (emirate)",
+    "economy": "Oil"
+  },
+  {
+    "code": "OM",
+    "name": "Oman",
+    "capital": "Muscat",
+    "language": "Arabic",
+    "demonym": "Omani",
+    "government": "Absolute monarchy (sultanate)",
+    "economy": "Oil, logistics"
+  },
+  {
+    "code": "IR",
+    "name": "Iran",
+    "capital": "Tehran",
+    "language": "Persian (Farsi)",
+    "demonym": "Iranian",
+    "government": "Islamic republic",
+    "economy": "Oil, industry"
+  },
+  {
+    "code": "IQ",
+    "name": "Iraq",
+    "capital": "Baghdad",
+    "language": "Arabic and Kurdish",
+    "demonym": "Iraqi",
+    "government": "Federal parliamentary republic",
+    "economy": "Oil"
+  },
+  {
+    "code": "JO",
+    "name": "Jordan",
+    "capital": "Amman",
+    "language": "Arabic",
+    "demonym": "Jordanian",
+    "government": "Constitutional monarchy",
+    "economy": "Services, mining"
+  },
+  {
+    "code": "LB",
+    "name": "Lebanon",
+    "capital": "Beirut",
+    "language": "Arabic",
+    "demonym": "Lebanese",
+    "government": "Parliamentary republic",
+    "economy": "Services, banking"
+  },
+  {
+    "code": "AF",
+    "name": "Afghanistan",
+    "capital": "Kabul",
+    "language": "Dari and Pashto",
+    "demonym": "Afghan",
+    "government": "Islamic emirate",
+    "economy": "Agriculture, trade"
+  },
+  {
+    "code": "PK",
+    "name": "Pakistan",
+    "capital": "Islamabad",
+    "language": "Urdu and English",
+    "demonym": "Pakistani",
+    "government": "Federal parliamentary republic",
+    "economy": "Textiles, agriculture, services"
+  },
+  {
+    "code": "IN",
+    "name": "India",
+    "capital": "New Delhi",
+    "language": "Hindi and English (plus many others)",
+    "demonym": "Indian",
+    "government": "Federal parliamentary republic",
+    "economy": "Services, IT, manufacturing"
+  },
+  {
+    "code": "BD",
+    "name": "Bangladesh",
+    "capital": "Dhaka",
+    "language": "Bengali",
+    "demonym": "Bangladeshi",
+    "government": "Parliamentary republic",
+    "economy": "Textiles, agriculture"
+  },
+  {
+    "code": "NP",
+    "name": "Nepal",
+    "capital": "Kathmandu",
+    "language": "Nepali",
+    "demonym": "Nepalese",
+    "government": "Federal parliamentary republic",
+    "economy": "Tourism, agriculture"
+  },
+  {
+    "code": "CN",
+    "name": "China",
+    "capital": "Beijing",
+    "language": "Mandarin Chinese",
+    "demonym": "Chinese",
+    "government": "One-party socialist republic",
+    "economy": "Manufacturing, exports"
+  },
+  {
+    "code": "JP",
+    "name": "Japan",
+    "capital": "Tokyo",
+    "language": "Japanese",
+    "demonym": "Japanese",
+    "government": "Constitutional monarchy (parliamentary government)",
+    "economy": "Cars, electronics, services"
+  },
+  {
+    "code": "KR",
+    "name": "South Korea",
+    "capital": "Seoul",
+    "language": "Korean",
+    "demonym": "South Korean",
+    "government": "Presidential republic",
+    "economy": "Electronics, cars"
+  },
+  {
+    "code": "KP",
+    "name": "North Korea",
+    "capital": "Pyongyang",
+    "language": "Korean",
+    "demonym": "North Korean",
+    "government": "One-party state",
+    "economy": "Industry, mining"
+  },
+  {
+    "code": "TH",
+    "name": "Thailand",
+    "capital": "Bangkok",
+    "language": "Thai",
+    "demonym": "Thai",
+    "government": "Constitutional monarchy",
+    "economy": "Manufacturing, tourism"
+  },
+  {
+    "code": "VN",
+    "name": "Vietnam",
+    "capital": "Hanoi",
+    "language": "Vietnamese",
+    "demonym": "Vietnamese",
+    "government": "One-party socialist republic",
+    "economy": "Manufacturing, agriculture"
+  },
+  {
+    "code": "KH",
+    "name": "Cambodia",
+    "capital": "Phnom Penh",
+    "language": "Khmer",
+    "demonym": "Cambodian",
+    "government": "Constitutional monarchy",
+    "economy": "Textiles, tourism"
+  },
+  {
+    "code": "LA",
+    "name": "Laos",
+    "capital": "Vientiane",
+    "language": "Lao",
+    "demonym": "Laotian",
+    "government": "One-party socialist republic",
+    "economy": "Hydropower, agriculture"
+  },
+  {
+    "code": "MM",
+    "name": "Myanmar",
+    "capital": "Naypyidaw",
+    "language": "Burmese",
+    "demonym": "Burmese",
+    "government": "Military-led government",
+    "economy": "Agriculture, natural gas"
+  },
+  {
+    "code": "MY",
+    "name": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "language": "Malay",
+    "demonym": "Malaysian",
+    "government": "Federal constitutional monarchy",
+    "economy": "Manufacturing, palm oil"
+  },
+  {
+    "code": "SG",
+    "name": "Singapore",
+    "capital": "Singapore",
+    "language": "English, Malay, Chinese, Tamil",
+    "demonym": "Singaporean",
+    "government": "Parliamentary republic",
+    "economy": "Finance, trade, services"
+  },
+  {
+    "code": "ID",
+    "name": "Indonesia",
+    "capital": "Jakarta",
+    "language": "Indonesian",
+    "demonym": "Indonesian",
+    "government": "Presidential republic",
+    "economy": "Manufacturing, commodities"
+  },
+  {
+    "code": "PH",
+    "name": "Philippines",
+    "capital": "Manila",
+    "language": "Filipino and English",
+    "demonym": "Filipino",
+    "government": "Presidential republic",
+    "economy": "Services, remittances"
+  },
+  {
+    "code": "LK",
+    "name": "Sri Lanka",
+    "capital": "Sri Jayawardenepura Kotte",
+    "language": "Sinhala and Tamil",
+    "demonym": "Sri Lankan",
+    "government": "Semi-presidential republic",
+    "economy": "Services, tea, textiles"
+  },
+  {
+    "code": "AU",
+    "name": "Australia",
+    "capital": "Canberra",
+    "language": "English",
+    "demonym": "Australian",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Mining, services"
+  },
+  {
+    "code": "NZ",
+    "name": "New Zealand",
+    "capital": "Wellington",
+    "language": "English and Māori",
+    "demonym": "New Zealander",
+    "government": "Constitutional monarchy (parliamentary democracy)",
+    "economy": "Agriculture, tourism"
+  },
+  {
+    "code": "FJ",
+    "name": "Fiji",
+    "capital": "Suva",
+    "language": "English, Fijian, Hindi",
+    "demonym": "Fijian",
+    "government": "Parliamentary republic",
+    "economy": "Tourism, agriculture"
+  }
+]
